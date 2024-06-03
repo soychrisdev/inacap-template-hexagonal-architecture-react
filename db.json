@@ -1,0 +1,69 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "nombre": "John Doe",
+            "rut": "12345678-9",
+            "nacionalidad": "Chilean",
+            "fechaNacimiento": "1990-01-01",
+            "edad": "31",
+            "mail": "john.doe@example.com",
+            "telefono": "+123456789",
+            "contactoEmergencia": "Jane Doe",
+            "tipoInstitucion": "University",
+            "sede": "Main Campus",
+            "jornada": "Morning",
+            "areasAcademicas": "Computer Science",
+            "programasDeEstudio": "Bachelor's Degree",
+            "tutor": "Dr. Smith",
+            "directorCarrera": "Prof. Johnson",
+            "tipoDiscapacidad": "Visual Impairment",
+            "origenDiscapacidad": "Congenital",
+            "etapa": "Undergraduate",
+            "certificados": "Certificate of Completion",
+            "enfermedadAsociada": "None",
+            "checkTratamientoFarmacologico": true,
+            "tratamientoFarmacologicoDetalles": "Prescribed medication",
+            "checkTratamientoEspecialista": true,
+            "tratamientoEspecialistaDetalles": "Regular therapy sessions",
+            "checkRedesApoyoPublicaPrivada": true,
+            "redesApoyoPublicaPrivadaDetalles": "Support groups and counseling",
+            "informacionFamiliar": [
+                {
+                    "nombre": "Mary Doe",
+                    "parentesco": "Mother",
+                    "ocupacion": "Teacher",
+                    "edad": "55"
+                },
+                {
+                    "nombre": "Tom Doe",
+                    "parentesco": "Father",
+                    "ocupacion": "Engineer",
+                    "edad": "58"
+                }
+            ],
+            "modalidadEnsenanzaMedia": "Regular",
+            "establecimientoEducacional": "High School XYZ",
+            "checkApoyoPosicoacademico": true,
+            "apoyoPosicoacademicoDetalles": "Extra tutoring sessions",
+            "checkRipitioCurso": false,
+            "cursoRepetido": "",
+            "motivoRepeticion": "",
+            "checkAsistioOtraInstitucionEdSuperior": true,
+            "nombreInstitucionSuperior": "University ABC",
+            "tipoInstitucionSuperior": "Private",
+            "nombreCarreraSuperior": "Master's Degree",
+            "semestresAprobadosSuperior": "4",
+            "motivoAbandonoSuperior": "",
+            "checkTrabaja": true,
+            "nombreEmpresaTrabaja": "XYZ Company",
+            "cargoEmpresaTrabaja": "Software Engineer",
+            "descripcionCaracteristicasDelEstudiante": "Hardworking and dedicated",
+            "descripcionAjustesRazonables": "Extra time for exams",
+            "checkConsentimientoAjustesRazonables": true,
+            "observaciones": "None",
+            "adjuntos": "Transcript, ID card",
+            "informacionConfidencial": "Confidential information"
+        }
+    ]
+}
